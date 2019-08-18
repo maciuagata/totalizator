@@ -33,5 +33,6 @@ php artisan db:seed
 ```bash
 php artisan serve
 ```
-migrate seeder
+## Import csv file is in address : /csv_file
+
 
