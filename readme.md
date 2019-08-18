@@ -35,3 +35,4 @@ php artisan serve
 ```
 ## Import csv file is in address : /csv_file
 
+## Registration: Admin name - Admin, email - admin@admin.com, password - verysafepassword
